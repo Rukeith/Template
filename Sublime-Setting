@@ -1,0 +1,37 @@
+{
+	"Seti_rainbow": true,
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/User/Color Highlighter/themes/Seti_monokai.tmTheme",
+	"draw_minimap_border": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"bower_components",
+		".sass-cache",
+		"assets/bower",
+		"node_modules",
+		".tmp"
+	],
+	"font_size": 12,
+	"gutter_theme": "Packages/SublimeLinter/gutter-themes/Blueberry/cross/Blueberry - cross.gutter-theme",
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"node_module",
+		"Vintage"
+	],
+	"mark_style": "fill",
+	"no_column_highlights_line": true,
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 2,
+	"theme": "Seti_orig.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
